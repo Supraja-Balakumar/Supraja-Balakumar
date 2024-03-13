@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Supraja-Balakumar
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Java Full Stack
 - 🌱 I’m currently learning Jsp Servlet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suprajaa33@gmail.com
